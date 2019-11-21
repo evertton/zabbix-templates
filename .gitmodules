@@ -1,0 +1,3 @@
+[submodule "isc-dhcpd/dhcpd-pools"]
+	path = isc-dhcpd/dhcpd-pools
+	url = git://github.com/Akkadius/dhcpd-pools.git

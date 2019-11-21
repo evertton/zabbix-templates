@@ -1,0 +1,5 @@
+# ZABBIX TEMPLATE - ISC DHCP SERVER
+
+ - Instale e configure o submódulo DHCPD-POOLS
+ - Importar a template no Zabbix
+ - Configurar os parâmetros de usuário no Zabbix Agent
